@@ -1,0 +1,12 @@
+[Paths]
+beta_path = /usr/local/lib/hiptools/beta/beta_dict_2.db
+[Tables]
+beta_tab = common
+[SearchOptions]
+default_search = Betacode
+# other options: Greek, Slavonic
+[Fonts]
+gr_font = Old Standard TT 18
+sl_font = Hirmos Ponomar 16
+
+
